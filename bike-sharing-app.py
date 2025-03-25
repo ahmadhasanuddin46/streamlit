@@ -26,7 +26,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-!pip install requests # Install the requests library
+pip install streamlit requests # Install the requests library
 
 import requests # Import the necessary library
 # Replace with the direct download link
